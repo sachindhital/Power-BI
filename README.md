@@ -1,9 +1,12 @@
 # Power-BI
 Creating A Dashboard and Visualizing Data Using Powe BI
 
-Infomartion on Dataset: 
+Infomartion on Dataset:
+
 The dataset contain the information about the global superstore.
 There are three sheet. 
+
+
 i.  **Orders**: In this sheet, you can find the order id,region,items,ship mode,delivery days,sales,quantity etc.
 
 ii.**Returns**: This sheet contains the details of return item from a particular customer. It contain attributes like Order id ,Region etc.
